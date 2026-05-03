@@ -772,5 +772,5 @@ Les réalisations présentées s'inscrivent dans un environnement technologique 
 
 \begin{center}
 \rule{0.4\textwidth}{0.4pt}\\[0.3em]
-\textit{Fin du dossier — Maxime Mansiet, BTS SIO SLAM, EPSI Bordeaux, session 2026.}
+\textit{Fin du dossier — Maxime Louis François Mansiet, BTS SIO SLAM, EPSI Bordeaux, session 2026.}
 \end{center}
