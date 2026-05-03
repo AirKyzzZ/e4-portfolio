@@ -22,8 +22,8 @@ export const projects: Project[] = [
     title: "Hop Hop Immo",
     description:
       "Assistant immobilier vocal IA (Hoppy) + agents d'automatisation marketing. Triplement du trafic organique en 3 mois.",
-    thumbnail: "/banner.png",
-    images: ["/banner.png"],
+    thumbnail: "/hop-hop-immo.jpg",
+    images: ["/hop-hop-immo.jpg"],
     demoUrl: "https://hophopimmo.com",
     skills: [
       { name: "Next.js", color: "bg-black" },
@@ -56,8 +56,9 @@ export const projects: Project[] = [
     title: "Concieragent",
     description:
       "Agent IA orchestrant 6 serveurs MCP (vols, hôtels, météo, devises...) via DIDComm chiffré. Support multi-LLM (GPT-4, Claude, Ollama).",
-    thumbnail: "/banner.png",
-    images: ["/banner.png"],
+    thumbnail: "/concieragent.png",
+    images: ["/concieragent.png"],
+    sourceCodeUrl: "https://github.com/AirKyzzZ/concieragent-hologram-demo",
     skills: [
       { name: "MCP", color: "bg-violet-600" },
       { name: "DIDComm", color: "bg-indigo-600" },
@@ -108,8 +109,8 @@ export const projects: Project[] = [
     title: "OpenClaw",
     description:
       "Mon outil de veille technologique IA : agrège les meilleures sources, analyse en profondeur et génère chaque matin un rapport personnalisé.",
-    thumbnail: "/banner.png",
-    images: ["/banner.png"],
+    thumbnail: "/openclaw.png",
+    images: ["/openclaw.png"],
     skills: [
       { name: "Node.js", color: "bg-green-600" },
       { name: "LLM API", color: "bg-orange-500" },

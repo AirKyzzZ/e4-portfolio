@@ -115,7 +115,7 @@ export function CompetencesBloc1() {
         transition={{ duration: 0.5 }}
       >
         <span className="inline-block mb-3 text-xs font-mono font-semibold uppercase tracking-widest text-neutral-500 border border-neutral-700 rounded-full px-3 py-1">
-          Épreuve E4 · BTS SIO SLAM
+          Épreuve E5 · BTS SIO SLAM
         </span>
         <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
           Compétences{" "}
@@ -124,8 +124,9 @@ export function CompetencesBloc1() {
           </span>
         </h2>
         <p className="text-neutral-400 max-w-2xl mx-auto text-sm md:text-base">
-          Les 6 compétences officielles du Bloc 1 évaluées lors de l&apos;épreuve E4,
-          couvertes par mes réalisations professionnelles et associatives.
+          Les 6 compétences officielles du Bloc 1 évaluées lors de l&apos;épreuve E5
+          « Support et mise à disposition de services informatiques », couvertes par
+          mes réalisations professionnelles et associatives.
         </p>
       </motion.div>
 

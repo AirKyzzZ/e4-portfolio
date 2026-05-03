@@ -1,11 +1,9 @@
 "use client";
 
 import { motion } from "motion/react";
-import { Check, FileText } from "lucide-react";
+import { Check, FileText, Download, FileSpreadsheet } from "lucide-react";
 import { competences } from "@/data/competences";
 import { projects } from "@/data/projects";
-
-const ATTESTATION_URL = "#"; // Remplacer par l'URL du PDF Hop Hop Immo
 
 export function TableauSynthese() {
   const displayProjects = projects.filter((p) => p.id !== "side-projects");
@@ -24,7 +22,7 @@ export function TableauSynthese() {
         transition={{ duration: 0.5 }}
       >
         <span className="inline-block mb-3 text-xs font-mono font-semibold uppercase tracking-widest text-neutral-500 border border-neutral-700 rounded-full px-3 py-1">
-          Document obligatoire · Épreuve E4
+          Document obligatoire · Épreuve E5
         </span>
         <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
           Tableau de{" "}
@@ -34,8 +32,75 @@ export function TableauSynthese() {
         </h2>
         <p className="text-neutral-400 max-w-2xl mx-auto text-sm md:text-base">
           Correspondance entre mes réalisations et les 6 compétences du Bloc 1
-          évaluées lors de l&apos;épreuve E4.
+          évaluées lors de l&apos;épreuve E5 (Support et mise à disposition de services informatiques).
         </p>
+      </motion.div>
+
+      {/* Documents officiels téléchargeables (jury) */}
+      <motion.div
+        className="max-w-4xl mx-auto mb-10 grid grid-cols-1 md:grid-cols-3 gap-3"
+        initial={{ opacity: 0, y: 10 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true }}
+        transition={{ duration: 0.4 }}
+      >
+        <a
+          href="/dossier/BTSSIDOPROFE5.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group flex items-center gap-3 p-4 rounded-xl border border-violet-500/30 bg-violet-500/5 hover:bg-violet-500/10 transition-all"
+        >
+          <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-violet-500 to-pink-500 flex items-center justify-center flex-shrink-0">
+            <FileText className="w-5 h-5 text-white" />
+          </div>
+          <div className="flex-1 min-w-0">
+            <p className="text-sm font-semibold text-white truncate">
+              Dossier professionnel
+            </p>
+            <p className="text-xs text-neutral-400 truncate">
+              BTSSIDOPROFE5.pdf
+            </p>
+          </div>
+          <Download className="w-4 h-4 text-violet-300 group-hover:text-violet-200 flex-shrink-0" />
+        </a>
+        <a
+          href="/dossier/BTSSIPRESENTE5.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group flex items-center gap-3 p-4 rounded-xl border border-yellow-500/30 bg-yellow-500/5 hover:bg-yellow-500/10 transition-all"
+        >
+          <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-yellow-500 to-orange-500 flex items-center justify-center flex-shrink-0">
+            <FileText className="w-5 h-5 text-white" />
+          </div>
+          <div className="flex-1 min-w-0">
+            <p className="text-sm font-semibold text-white truncate">
+              Attestations de stage
+            </p>
+            <p className="text-xs text-neutral-400 truncate">
+              BTSSIPRESENTE5.pdf
+            </p>
+          </div>
+          <Download className="w-4 h-4 text-yellow-300 group-hover:text-yellow-200 flex-shrink-0" />
+        </a>
+        <a
+          href="/dossier/Annexe-VI-1-tableau-synthese.xlsx"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group flex items-center gap-3 p-4 rounded-xl border border-emerald-500/30 bg-emerald-500/5 hover:bg-emerald-500/10 transition-all"
+        >
+          <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-emerald-500 to-teal-500 flex items-center justify-center flex-shrink-0">
+            <FileSpreadsheet className="w-5 h-5 text-white" />
+          </div>
+          <div className="flex-1 min-w-0">
+            <p className="text-sm font-semibold text-white truncate">
+              Annexe VI-1 (xlsx)
+            </p>
+            <p className="text-xs text-neutral-400 truncate">
+              Tableau officiel SIEC
+            </p>
+          </div>
+          <Download className="w-4 h-4 text-emerald-300 group-hover:text-emerald-200 flex-shrink-0" />
+        </a>
       </motion.div>
 
       <div className="max-w-6xl mx-auto">
@@ -139,20 +204,9 @@ export function TableauSynthese() {
                         alternance)
                       </p>
                     </div>
-                    {ATTESTATION_URL !== "#" ? (
-                      <a
-                        href={ATTESTATION_URL}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="ml-auto text-xs px-3 py-1.5 rounded-full bg-yellow-500/20 border border-yellow-500/40 text-yellow-300 hover:bg-yellow-500/30 transition-colors flex-shrink-0"
-                      >
-                        Voir le PDF
-                      </a>
-                    ) : (
-                      <span className="ml-auto text-xs px-3 py-1.5 rounded-full bg-white/5 border border-white/10 text-neutral-600 flex-shrink-0">
-                        PDF à joindre
-                      </span>
-                    )}
+                    <span className="ml-auto text-xs px-3 py-1.5 rounded-full bg-yellow-500/10 border border-yellow-500/30 text-yellow-400/80 flex-shrink-0">
+                      Fournie en annexe du dossier
+                    </span>
                   </div>
                 </td>
               </motion.tr>

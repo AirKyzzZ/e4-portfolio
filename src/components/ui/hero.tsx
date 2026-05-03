@@ -46,7 +46,7 @@ const sampleMediaContent: MediaContentCollection = {
     scrollToExpand: 'Scroll to Expand Demo',
     about: {
       overview:
-        'Portfolio professionnel de Maxime Mansiet, étudiant BTS SIO option SLAM à l\'EPSI Bordeaux. Ce dossier présente mon parcours de professionnalisation et les réalisations couvrant les 6 compétences du Bloc 1 — Épreuve E4.',
+        'Portfolio professionnel de Maxime Mansiet, étudiant BTS SIO option SLAM à l\'EPSI Bordeaux. Ce dossier présente mon parcours de professionnalisation et les réalisations couvrant les 6 compétences du Bloc 1 — Épreuve E5.',
       conclusion:
         'Développeur fullstack chez Verana (2060.io), fondateur de Klyx et ingénieur logiciel chez Hop Hop Immo. Basé à Bordeaux, je construis des projets concrets à l\'intersection du web moderne, de l\'IA et de l\'identité décentralisée.',
     },
@@ -60,7 +60,7 @@ const sampleMediaContent: MediaContentCollection = {
     scrollToExpand: 'Scroll to Expand Demo',
     about: {
       overview:
-        'Portfolio professionnel de Maxime Mansiet, étudiant BTS SIO option SLAM à l\'EPSI Bordeaux. Ce dossier présente mon parcours de professionnalisation et les réalisations couvrant les 6 compétences du Bloc 1 — Épreuve E4.',
+        'Portfolio professionnel de Maxime Mansiet, étudiant BTS SIO option SLAM à l\'EPSI Bordeaux. Ce dossier présente mon parcours de professionnalisation et les réalisations couvrant les 6 compétences du Bloc 1 — Épreuve E5.',
       conclusion:
         'Développeur fullstack chez Verana (2060.io), fondateur de Klyx et ingénieur logiciel chez Hop Hop Immo. Basé à Bordeaux, je construis des projets concrets à l\'intersection du web moderne, de l\'IA et de l\'identité décentralisée.',
     },
@@ -92,7 +92,7 @@ const MediaContent = ({ mediaType }: { mediaType: 'video' | 'image' }) => {
         <ProjectsSection />
       </div>
       
-      {/* Section Compétences Bloc 1 — BTS SIO E4 */}
+      {/* Section Compétences Bloc 1 — BTS SIO E5 */}
       <div id="competences-bloc1" className="w-full relative">
         <CompetencesBloc1 />
       </div>

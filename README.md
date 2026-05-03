@@ -1,219 +1,129 @@
-# 🚀 Maxime Mansiet - Portfolio
+# Portfolio E5 — Maxime Mansiet
 
-<div align="center">
+**BTS SIO SLAM · EPSI Bordeaux · Promotion 2024–2026**
 
-![Next.js](https://img.shields.io/badge/Next.js-15.4.3-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-19.1.0-blue?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.23.9-purple?style=for-the-badge&logo=framer)
+Ce dépôt contient le **portfolio professionnel** servant de support à l'**épreuve E5 — Support et mise à disposition de services informatiques (Bloc 1)** du BTS Services Informatiques aux Organisations (option SLAM).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge)](https://maximemansiet.fr/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maxime-mansiet)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/AirKyzzZ)
+Le site est un dossier numérique interactif qui présente mon parcours de professionnalisation et les réalisations couvrant les **six compétences du Bloc 1**.
 
-</div>
+**Site en ligne :** [e5.maximemansiet.fr](https://e5.maximemansiet.fr)
 
 ---
 
-## 👨‍💻 À propos de moi
+## Contexte de l'épreuve
 
-Développeur **Full-Stack** et **Entrepreneur** basé à **Bordeaux**, passionné par les technologies web modernes et l'innovation. Je combine expertise technique et vision entrepreneuriale pour créer des solutions digitales performantes.
+L'épreuve E5 (référentiel BTS SIO 2026, coefficient 4, durée 40 min) évalue le candidat sur les compétences du **Bloc 1 — Support et mise à disposition de services informatiques** (commun aux deux options SISR et SLAM). Le support à fournir doit permettre au jury d'apprécier :
 
-### 🎯 Expertise
-- **Développement Full-Stack** avec React, Next.js et TypeScript
-- **Design UI/UX** et expérience utilisateur optimisée
-- **Entrepreneuriat** et gestion de projets innovants
-- **Communauté tech** et networking
+- le parcours de professionnalisation du candidat
+- les réalisations professionnelles et/ou personnelles mobilisées
+- la couverture des six compétences du Bloc 1
 
----
-
-## 🏢 Expériences Professionnelles
-
-### 🚀 PDG - Klyx (2025 - Présent)
-**Agence de création digitale** - Bordeaux
-
-- Développement full-stack avec **React** et **Next.js**
-- Conception UI/UX sur-mesure et optimisation des performances
-- Gestion d'équipe et stratégie produit
-- Technologies : React, Next.js, TypeScript, Tailwind CSS
-
-[![Klyx](https://img.shields.io/badge/Klyx-Website-blue?style=flat-square)](https://klyx.fr/)
-
-### 🏃‍♂️ Fondateur - VertiFlow (2024 - Présent)
-**Marque innovante dédiée au parkour et mouvement urbain**
-
-- Développement de l'identité de marque et stratégie marketing
-- Animation de communauté et création de contenus pédagogiques
-- Création de vêtements techniques pour la communauté freerun
-
-[![VertiFlow](https://img.shields.io/badge/VertiFlow-Website-green?style=flat-square)](https://vertiflow.fr/)
-
-### 💻 Développeur Web - Reciproq (2024)
-**Plateforme de mise en relation santé mentale**
-
-- Développement **Next.js** + **Tailwind CSS**
-- Design responsive et mobile-first
-- Optimisation des performances et accessibilité
-- Méthodologie Agile et collaboration produit
+Ce portfolio fait office de support numérique et est complété par le **dossier professionnel PDF** (BTSSIDOPROFE5) déposé sur Cyclade, accompagné des **attestations de stage** (BTSSIPRESENTE5).
 
 ---
 
-## 🎓 Formation
+## Compétences du Bloc 1 couvertes
 
-### 📚 EPSI - L'école d'ingénierie informatique (2024 - 2029)
-**Bordeaux** - Formation en ingénierie informatique
+| Code | Compétence |
+|------|------------|
+| **B1-C1** | Gérer le patrimoine informatique |
+| **B1-C2** | Répondre aux incidents et aux demandes d'assistance et d'évolution |
+| **B1-C3** | Développer la présence en ligne de l'organisation |
+| **B1-C4** | Travailler en mode projet |
+| **B1-C5** | Mettre à disposition des utilisateurs un service informatique |
+| **B1-C6** | Organiser son développement professionnel |
 
-- **BTS** services informatiques aux organisations (2024-2026)
-- Formation en développement web et programmation
-- Apprentissage des technologies modernes
-- Projets pratiques et collaboratifs
-
-[![EPSI](https://img.shields.io/badge/EPSI-Formation-orange?style=flat-square)](https://epsi.fr/)
-
----
-
-## 🛠️ Technologies & Compétences
-
-### Frontend
-![React](https://img.shields.io/badge/React-Expert-blue?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-Expert-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Expert-38B2AC?style=flat-square&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-Advanced-purple?style=flat-square&logo=framer)
-
-### Backend & Outils
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/Git-Expert-orange?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-Expert-blue?style=flat-square&logo=visual-studio-code)
-
-### Méthodologies
-![Agile](https://img.shields.io/badge/Agile-Expert-green?style=flat-square)
-![Scrum](https://img.shields.io/badge/Scrum-Intermediate-orange?style=flat-square)
-![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-Advanced-purple?style=flat-square)
+Chaque compétence est détaillée sur le site avec les réalisations professionnelles et associatives qui la couvrent, ainsi que les outils et technologies mobilisés.
 
 ---
 
-## 🌟 Projets Principaux
+## Structure du dossier numérique
 
-### 🎨 Portfolio Personnel
-**Technologies :** Next.js, React, TypeScript, Tailwind CSS, Framer Motion
+Le site est organisé en sections qui correspondent aux attendus de l'épreuve :
 
-- Design moderne avec animations fluides
-- Responsive et optimisé pour les performances
-- Sections interactives et expérience utilisateur premium
+- **Parcours** — timeline des expériences professionnelles (Hop Hop Immo, Verana / 2060.io, Klyx, Reciproq, PKBA)
+- **Projets** — fiches détaillées des réalisations principales avec technologies, rôle et compétences couvertes
+- **Compétences Bloc 1** — présentation des six compétences et rattachement aux réalisations
+- **Veille technologique** — outils et stratégie de veille (OpenClaw, GDG Bordeaux, communautés tech)
+- **Tableau de synthèse** — matrice réalisations × compétences (document obligatoire E5)
+- **Contact** — formulaire et coordonnées
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-Live-green?style=flat-square)](https://maximemansiet.fr/)
-
-### 🏥 Reciproq - Plateforme Santé Mentale
-**Technologies :** Next.js, Tailwind CSS, Responsive Design
-
-- Plateforme de mise en relation professionnels/particuliers
-- Design mobile-first et accessibilité optimisée
-- Modules dynamiques et performance optimisée
-
-### 🏃‍♂️ VertiFlow - Marque Parkour
-**Technologies :** Branding, Marketing, Community Management
-
-- Identité de marque complète
-- Stratégie marketing et animation de communauté
-- Produits techniques pour freerun
+Les **attestations de stage** sont fournies séparément en annexe du dossier remis sur Cyclade (BTSSIPRESENTE5).
 
 ---
 
-## 🤝 Communauté Tech
+## Stack technique
 
-### 🏛️ GDG Bordeaux
-**Membre actif** - Google Developer Group Bordeaux
-
-- Participation aux meetups et événements tech
-- Veille technologique sur Flutter, TensorFlow, Angular, PWA
-- Networking avec 100+ contacts tech
-- Contribution à l'écosystème tech bordelais
-
-[![GDG Bordeaux](https://img.shields.io/badge/GDG_Bordeaux-Member-blue?style=flat-square)](https://gdgbordeaux.fr/)
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AirKyzzZ&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AirKyzzZ&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AirKyzzZ&theme=radical&hide_border=true)
-
-</div>
+| Domaine | Technologie |
+|---------|-------------|
+| Framework | Next.js 15 (App Router) |
+| Langage | TypeScript |
+| UI | React 19, Tailwind CSS 4 |
+| Animations | Motion (Framer Motion) |
+| Icônes | Lucide React |
+| Déploiement | Netlify (build + déploiement automatiques sur `main`) |
 
 ---
 
-## 📫 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:maxime.mansiet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maxime-mansiet)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://maximemansiet.fr/)
-
-</div>
-
----
-
-## 🚀 Installation & Développement
+## Développement local
 
 ### Prérequis
-- Node.js (version 18 ou supérieure)
-- npm ou yarn
+- Node.js 18+
+- npm
 
 ### Installation
 
 ```bash
-# Cloner le repository
-git clone https://github.com/AirKyzzZ/portfolio.git
-
-# Aller dans le dossier
-cd portfolio
-
-# Installer les dépendances
+git clone https://github.com/AirKyzzZ/e5-portfolio.git
+cd e5-portfolio
 npm install
-
-# Lancer en mode développement
 npm run dev
 ```
 
-### Scripts disponibles
+Le site est accessible sur [http://localhost:3000](http://localhost:3000).
+
+### Scripts
 
 ```bash
-npm run dev      # Lance le serveur de développement
-npm run build    # Build pour la production
-npm run start    # Lance le serveur de production
-npm run lint     # Vérification du code
+npm run dev      # Serveur de développement
+npm run build    # Build de production
+npm run start    # Serveur de production
+npm run lint     # Vérification du code (ESLint)
 ```
 
-### Technologies utilisées
+---
 
-- **Framework :** Next.js 15.4.3
-- **UI Library :** React 19.1.0
-- **Language :** TypeScript 5.0
-- **Styling :** Tailwind CSS 4.0
-- **Animations :** Framer Motion 12.23.9
-- **Icons :** Lucide React
-- **Linting :** ESLint
+## Organisation du code
+
+```
+src/
+├── app/
+│   ├── page.tsx              # Page d'accueil (Hero principal)
+│   └── project/[id]/         # Fiche détaillée par projet
+├── components/ui/
+│   ├── Competences/          # Grille des 6 compétences du Bloc 1
+│   ├── TableauSynthese/      # Tableau de synthèse réalisations × compétences
+│   ├── VeilleTech/           # Section veille technologique
+│   ├── Timeline/             # Parcours professionnel
+│   ├── Projects/             # Cartes et pages projets
+│   ├── ContactForm/          # Formulaire de contact
+│   └── ...                   # Composants UI (Navbar, Footer, etc.)
+└── data/
+    ├── competences.ts        # Données des 6 compétences du Bloc 1
+    └── projects.ts           # Données des projets
+```
+
+Les **données du dossier** (compétences, projets, réalisations) sont centralisées dans `src/data/` pour être facilement modifiables sans toucher aux composants.
 
 ---
 
-## 📝 License
+## Auteur
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+**Maxime Mansiet** — étudiant BTS SIO SLAM à l'EPSI Bordeaux (2024–2026).
 
----
+- Développeur fullstack chez **Verana / 2060.io**
+- Ingénieur logiciel chez **Hop Hop Immo** (stage → alternance 2026)
+- Fondateur de **Klyx** (agence de création digitale)
+- Co-fondateur & trésorier de **PKBA** (Parkour Bassin d'Arcachon)
 
-<div align="center">
-
-**⭐ N'hésitez pas à star ce repository si vous l'appréciez !**
-
-*Développé avec ❤️ par Maxime Mansiet*
-
-</div>
+[LinkedIn](https://linkedin.com/in/maxime-mansiet) · [GitHub](https://github.com/AirKyzzZ) · [maximemansiet.fr](https://maximemansiet.fr)
