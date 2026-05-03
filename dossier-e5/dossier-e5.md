@@ -743,8 +743,8 @@ Conformément à la circulaire nationale BTS SIO 2026 (Annexe IX), les **attesta
 
 Il regroupe :
 
-1. Attestation de stage Reciproq (avril–mai 2025)
-2. Attestation de stage Hop Hop Immo (janvier 2026 — en cours)
+1. Attestation de stage Reciproq (22 avril — 30 mai 2025)
+2. Attestation de stage Hop Hop Immo / LES CLES DU NEUF (5 janvier — 13 février 2026)
 
 ## A3 — Tableau de synthèse au format officiel (.xlsx)
 
