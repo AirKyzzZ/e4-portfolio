@@ -102,7 +102,7 @@ export const projects: Project[] = [
       { name: "Tailwind CSS", color: "bg-cyan-500" },
     ],
     featured: false,
-    competencyIds: ["C3", "C4", "C5", "C6"],
+    competencyIds: ["C1", "C3", "C4", "C5", "C6"],
   },
   {
     id: "openclaw",

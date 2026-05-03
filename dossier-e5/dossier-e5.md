@@ -90,6 +90,7 @@ header-includes:
 | | |
 |---|---|
 | **Nom, Prénoms** | MANSIET, Maxime Louis François |
+| **N° candidat** | 02248411067 |
 | **Établissement** | EPSI Bordeaux |
 | **Diplôme préparé** | BTS Services Informatiques aux Organisations — option SLAM |
 | **Promotion** | 2024–2026 |
@@ -123,8 +124,8 @@ Le tableau ci-dessous récapitule les expériences mobilisées dans ce dossier, 
   left=8pt,right=8pt,top=8pt,bottom=8pt
 ]
 
-\textbf{Janvier 2026 — en cours · Hop Hop Immo (Saint-Médard-en-Jalles)} \\
-\textit{Stage ingénieur logiciel — convention BTS SIO, prolongation en alternance prévue septembre 2026.} \\
+\textbf{05 janvier — 13 février 2026 · Hop Hop Immo / LES CLES DU NEUF (Saint-Médard-en-Jalles)} \\
+\textit{Stage ingénieur logiciel — convention BTS SIO. Alternance prévue septembre 2026.} \\
 Développement de \textit{Hoppy}, premier assistant immobilier vocal (ElevenLabs + LLM) disponible 24/7 sur une base de 28\,000+ annonces. Conception d'agents IA autonomes pour l'automatisation marketing. Refonte de la homepage Next.js avec triplement du trafic organique en 3 mois.
 
 \end{tcolorbox}
@@ -175,7 +176,7 @@ Pilotage de 5+ projets clients en méthodologie Agile. Développement de sites p
   left=8pt,right=8pt,top=8pt,bottom=8pt
 ]
 
-\textbf{Avril — Mai 2025 · Reciproq} \\
+\textbf{22 avril — 30 mai 2025 · Reciproq} \\
 \textit{Stage de découverte / Développeur web — plateforme santé mentale.} \\
 Plateforme de mise en relation entre professionnels de santé mentale et particuliers. Développement des pages clés du site vitrine en Next.js et Tailwind, adaptation de la charte graphique Figma, design mobile-first, méthodologie Agile en équipe pluridisciplinaire (dev + design + produit).
 
@@ -249,8 +250,8 @@ L'ensemble couvre les six compétences du Bloc 1 et permet de présenter des con
 
 \textbf{Compétences mobilisées :} B1-C2, B1-C3, B1-C4, B1-C5
 
-\textbf{Organisation :} Hop Hop Immo — Saint-Médard-en-Jalles \quad
-\textbf{Période :} Janvier 2026 — en cours \quad
+\textbf{Organisation :} Hop Hop Immo / LES CLES DU NEUF — Saint-Médard-en-Jalles \quad
+\textbf{Période :} 5 janvier — 13 février 2026 (stage) · alternance prévue 09/2026 \quad
 \textbf{Modalité :} En équipe (équipe produit + marketing)
 
 \textbf{Démo :} \href{https://hophopimmo.com}{hophopimmo.com}
@@ -259,7 +260,7 @@ L'ensemble couvre les six compétences du Bloc 1 et permet de présenter des con
 
 ### Contexte
 
-Stage ingénieur logiciel (convention BTS SIO, prolongation en alternance prévue septembre 2026). Hop Hop Immo est une plateforme immobilière proposant un assistant vocal d'IA — **Hoppy** — capable de qualifier les prospects sur une base de 28 000+ annonces, disponible 24/7. L'entreprise développe également une suite d'agents IA pour automatiser le marketing.
+Stage ingénieur logiciel (convention BTS SIO, du 5 janvier au 13 février 2026 ; alternance prévue à compter de septembre 2026). **Hop Hop Immo** (marque commerciale opérée par la société **LES CLES DU NEUF**) est une plateforme immobilière proposant un assistant vocal d'IA — **Hoppy** — capable de qualifier les prospects sur une base de 28 000+ annonces, disponible 24/7. L'entreprise développe également une suite d'agents IA pour automatiser le marketing.
 
 ### Description de la réalisation
 
@@ -506,7 +507,7 @@ OpenClaw est mon **outil de veille technologique IA personnel**. Il agrège chaq
 \textbf{Compétences mobilisées :} B1-C2, B1-C4, B1-C5
 
 \textbf{Organisation :} Reciproq \quad
-\textbf{Période :} Avril — Mai 2025 \quad
+\textbf{Période :} 22 avril — 30 mai 2025 \quad
 \textbf{Modalité :} En équipe pluridisciplinaire (dev + design + produit), méthodologie Agile
 
 \textbf{Démo :} \href{https://reciproq.com}{reciproq.com}
@@ -617,7 +618,7 @@ Membre actif depuis octobre 2024 du **Google Developer Group Bordeaux**. 15+ mee
   boxrule=0.4pt,arc=2pt,
   left=8pt,right=8pt,top=8pt,bottom=8pt
 ]
-\textbf{NOM et prénoms :} MANSIET Maxime Louis François \hfill \textbf{N° candidat :} (à compléter)\\
+\textbf{NOM et prénoms :} MANSIET Maxime Louis François \hfill \textbf{N° candidat :} 02248411067\\
 \textbf{Centre de formation :} EPSI Bordeaux \hfill \textbf{Option :} \(\square\) SISR \quad \(\blacksquare\) SLAM\\
 \textbf{Adresse URL du portfolio :} \href{https://e5.maximemansiet.fr}{https://e5.maximemansiet.fr}
 \end{tcolorbox}
@@ -655,7 +656,7 @@ Membre actif depuis octobre 2024 du **Google Developer Group Bordeaux**. 15+ mee
 \midrule
 
 \textbf{Reciproq} — Plateforme santé mentale. Développement frontend Next.js/Tailwind, charte Figma, design mobile-first, modules dynamiques, méthodologie Agile, résolution bugs.\newline\textit{Productions :} pages site en production (\url{https://reciproq.com}), modules dynamiques, tickets résolus.
-& 01/04/2025\newline $\to$ 31/05/2025
+& 22/04/2025\newline $\to$ 30/05/2025
 & & \cmark & & \cmark & \cmark & \\
 \addlinespace[2pt]
 
@@ -677,8 +678,8 @@ Membre actif depuis octobre 2024 du **Google Developer Group Bordeaux**. 15+ mee
 & \cmark & & \cmark & \cmark & \cmark & \cmark \\
 \addlinespace[2pt]
 
-\textbf{Hop Hop Immo} — Stage ingénieur logiciel (convention BTS SIO, alternance 09/2026). Hoppy : assistant immobilier vocal IA (ElevenLabs + LLM, base 28k+ annonces, 24/7). Agents IA marketing. Refonte SEO homepage Next.js (trafic organique x3 en 3 mois, Lighthouse >95).\newline\textit{Productions :} Hoppy en production (\url{https://hophopimmo.com}), agents IA marketing, refonte SEO.
-& 01/01/2026\newline $\to$ 06/2026
+\textbf{Hop Hop Immo / LES CLES DU NEUF} — Stage ingénieur logiciel (convention BTS SIO, alternance 09/2026). Hoppy : assistant immobilier vocal IA (ElevenLabs + LLM, base 28k+ annonces, 24/7). Agents IA marketing. Refonte SEO homepage Next.js (trafic organique x3 en 3 mois, Lighthouse >95).\newline\textit{Productions :} Hoppy en production (\url{https://hophopimmo.com}), agents IA marketing, refonte SEO.
+& 05/01/2026\newline $\to$ 13/02/2026
 & & \cmark & \cmark & \cmark & \cmark & \\
 \addlinespace[2pt]
 
